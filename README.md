@@ -1,5 +1,5 @@
 # Boas vindas ao meu perfil 💙💙
-Meu henry soares
+Meu nome e henry soares
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
